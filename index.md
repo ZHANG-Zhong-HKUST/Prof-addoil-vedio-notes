@@ -6,6 +6,8 @@
 
 [邮件附件 这个别忘](./EndlessMelody_EnglishVersion_.docx)
 
+请及时到共享文档更新进度，[文档链接](https://hkustconnect-my.sharepoint.com/:x:/g/personal/zzhangfc_connect_ust_hk/EaMTtqgaLQ1NoBqOLrBqomQBwlte1gEo07k1eS7IJgMgMA?e=NRLt8K)
+
 # 视频参数
 
 1920\* 1080 (HD) @ 30fps
