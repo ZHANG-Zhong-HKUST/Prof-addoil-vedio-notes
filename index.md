@@ -50,6 +50,6 @@ https://arctime.org/download.html
 |导出视频文件|id.mp4|[1.mp4](./1/1.mp4)|
 |字幕文件|id.srt|[1.srt](./1/1.srt)|
 |工程文件|id.atpj|[1.atpj](./1/1.atpj)|
-|打包以上全部|id.zip|[1.zip](./1)|
+|打包以上全部|id.zip|[1.zip](https://github.com/ZHANG-Zhong-HKUST/Prof-addoil-vedio-notes/tree/gh-pages/1)|
 
 将id.zip发送给负责人（待定）
