@@ -48,7 +48,7 @@ https://arctime.org/download.html
 |:---:|:---:|:---:|
 |源视频文件|id_o.\*|[1_o.mov](./1/1_o.mov)|
 |导出视频文件|id.mp4|[1.mp4](./1/1.mp4)|
-|字幕文件|id.srt|[1.srt](./1/1.mp4)|
+|字幕文件|id.srt|[1.srt](./1/1.srt)|
 |工程文件|id.atpj|[1.atpj](./1/1.atpj)|
 |打包以上全部|id.zip|[1.zip](./1)|
 
