@@ -4,6 +4,8 @@
 
 [给教授邮件的模板](./EmailTemplate.docx)
 
+教授回复同意后第二封邮件模板，待更新
+
 [邮件附件 这个别忘](./EndlessMelody_EnglishVersion.docx)
 
 请及时到共享文档更新进度，[文档链接](https://hkustconnect-my.sharepoint.com/:x:/g/personal/zzhangfc_connect_ust_hk/EaMTtqgaLQ1NoBqOLrBqomQBwlte1gEo07k1eS7IJgMgMA?e=NRLt8K)
