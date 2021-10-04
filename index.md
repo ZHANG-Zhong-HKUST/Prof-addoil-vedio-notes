@@ -1,37 +1,54 @@
-## Welcome to GitHub Pages
+**此文档（网页）是声声不息教授加油视频指引，供subcom参考，请不要发给教授**
 
-You can use the [editor on GitHub](https://github.com/ZHANG-Zhong-HKUST/Prof-addoil-vedio-notes/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[pdf版](./guide.pdf)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# 视频参数
 
-### Markdown
+$1920\times 1080 (HD) @ 30fps $
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**宽屏（landscape)**  可用手机拍摄，注意调整参数
 
-```markdown
-Syntax highlighted code block
+# 字幕指引
 
-# Header 1
-## Header 2
-### Header 3
+## 软件介绍
+ArcTime是很小巧方便的字幕制作软件。有Windows，Mac，Linux发行版。
+[点此链接下载](https://arctime.org/download.html)，或复制以下网址
+https://arctime.org/download.html
 
-- Bulleted
-- List
+## 使用指南
+1. 将字幕提前写好，按照每句话分行（即一行文字会同时显示）
+2. 将字幕并复制到右上字幕框中
+3. 使用快速拖拽创建工具/JK拍打工具 参照下方的语音波形图，边播放边放置字幕块
+4. 具体可见[官方快速上手指南](https://arctime.org/quick-start-guide.html) 和[官方六分钟上手视频教程](https://arctime.org/guide.html)
 
-1. Numbered
-2. List
+### 举例（与最下面同一个工程）
+1. 将字幕提前写好，按照每句话分行（即一行文字会同时显示
+    ```plain
+    I wish everybody success
+    in the upcoming sing contest
+    endless melody
+    have fun
+    ```
+2. 将字幕并复制到右上字幕框中
+    ![](./1_1.png)
+3. 使用快速拖拽创建工具/JK拍打工具 参照下方的语音波形图，边播放边放置字幕块
+    ![](./1_2.png)
 
-**Bold** and _Italic_ and `Code` text
+## 导出字幕、工程文件、压制视频
+1. 选择上方 "导出"->"字幕文件"，选择导出SRT，其他默认
+2. 选择上方 "文件"->"工程文件另存为"
+3. 选择上方 "导出"->"快速视频压制（标准MP4）" CRF选18，preset选6
 
-[Link](url) and ![Image](src)
-```
+## 提交与例子
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+每个教授会有分配一个id
 
-### Jekyll Themes
+|文件|命名|例子(假设这位教授id为1)|
+|:---:|:---:|:---:|
+|源视频文件|id_o.\*|[1_o.\*](./1/1_o.mov)|
+|导出视频文件|id.mp4|[1.mp4](./1/1.mp4)|
+|字幕文件|id.srt|[1.srt](./1/1.mp4)|
+|工程文件|id.atpj|[1.atpj](./1/1.atpj)|
+|打包以上全部|id.zip|[1.zip](./1)|
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ZHANG-Zhong-HKUST/Prof-addoil-vedio-notes/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+将id.zip发送给负责人（待定）
