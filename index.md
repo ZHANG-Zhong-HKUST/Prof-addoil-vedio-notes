@@ -1,10 +1,14 @@
 **此文档（网页）是声声不息教授加油视频指引，供subcom参考，请不要发给教授**
 
+last update: 10.5, 09:40
+
+# 文件下载
+
 [pdf版](./guide.pdf)
 
 [给教授邮件的模板](./EmailTemplate.docx)
 
-教授回复同意后第二封邮件模板，待更新
+[教授回复同意后第二封邮件](./QNA.docx)
 
 [邮件附件 这个别忘](./EndlessMelody_EnglishVersion.docx)
 
@@ -77,4 +81,5 @@ https://arctime.org/download.html
 
 
 
-将id.zip发送给负责人（待定）
+将id.zip发送给负责人邮箱，邮件主题为“声声不息教授加油视频(id)”
+zzhangfc@connect.ust.hk
