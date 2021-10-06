@@ -1,6 +1,6 @@
 **此文档（网页）是声声不息教授加油视频指引，供subcom参考，请不要发给教授**
 
-last update: 10.5, 09:40
+last update: 10.6, 17:40
 
 # 文件下载
 
@@ -14,11 +14,26 @@ last update: 10.5, 09:40
 
 请及时到共享文档更新进度，[文档链接](https://hkustconnect-my.sharepoint.com/:x:/g/personal/zzhangfc_connect_ust_hk/EaMTtqgaLQ1NoBqOLrBqomQBwlte1gEo07k1eS7IJgMgMA?e=NRLt8K)
 
-# 视频参数
+# 视频参数与指引
 
 1920\* 1080 (HD) @ 30fps
 
 **宽屏（landscape)**  可用手机拍摄，注意调整参数
+
+## Q&A
+
+1. 如何调整视频大小  
+	先创建序列，创建时设置好参数，再拖入视频。 [详细链接](https://www.zhihu.com/question/267377976)
+
+2. 如何裁剪视频画面  
+	在"视频效果/视频特效"->"变换"->"裁剪"。[详细链接](https://jingyan.baidu.com/article/6c67b1d6aa12902787bb1ec5.html)
+
+3. 如何截取视频片段/改变播放顺序  
+	在时间轴直接拖动素材两端可以改变单个素材的起止时间；或使用"剃刀工具"/"ctrl+k快捷键"将单个素材分成多个，即可重新排列素材。[详细链接](https://jingyan.baidu.com/article/6fb756ec785437241858fb8c.html)
+
+4. 被切开的素材怎么重新合并为一个（能方便统一加特效）  
+	右键->重组。[详细链接](https://blog.csdn.net/qq_37591637/article/details/102641725)
+
 
 # 字幕指引
 
