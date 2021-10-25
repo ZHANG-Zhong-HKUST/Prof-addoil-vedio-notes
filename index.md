@@ -93,6 +93,11 @@ https://arctime.org/download.html
 
 
 # 提交
+
+私聊负责人
+
+划掉以下
+
 ## 提交文件要求：
 
 每名选手有id
